@@ -8,6 +8,8 @@ authors = ["natalie sinner <nataliesinner@hotmail.com>"]
 python = "^3.8"
 numpy = "^1.19.0"
 matplotlib = "^3.2.2"
+jupyter = "^1.0.0"
+lab = "^6.0"
 jupyterlab = "^2.1.5"
 
 [tool.poetry.dev-dependencies]
